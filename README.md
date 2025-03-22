@@ -1,0 +1,3 @@
+Business Case:- 
+* In the era of digital entertainment, users are overwhelmed with countless movie choices across various streaming platforms. A movie recommendation system enhances user experience by providing personalized suggestions based on preferences, viewing history, and ratings. By leveraging machine learning algorithms such as collaborative filtering, content-based filtering, or hybrid models, the system helps users discover relevant movies, increasing engagement and watch time. For businesses, this leads to higher customer retention, better content utilization, and potential revenue growth through targeted promotions. Implementing such a system can give streaming services and movie platforms a competitive edge in the market.
+* Domain:- Entertainment & Media
